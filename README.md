@@ -1,18 +1,7 @@
-# Curso de redes
+# Instrucciones
 
-## Notas:
+Para equipos conectados al servidor.
 
-* Antes de correr jupyter, asegurarse de tener la ip correcta para el servidor (la MBP) en el archivo `~/.jupyter/jupyter_notebook_config.py`. Por ejemplo:
-
-```
-	c.NotebookApp.ip = '192.168.1.69'
-```
-
-(el default es 127.0.0.1, pero no permite conexiones desde otros equipos).
-
-* Entrar a `~/curso_de_redes/usuarios`, y desde ahí arrancar:
-
-```
-	jupyter notebook
-```
-
+* Entra al usuario que te tocó
+* Dale click al nombre del archivo, no a la casilla
+* Selecciona redes1.ipynb la primera vez
