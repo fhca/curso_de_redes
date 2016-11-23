@@ -2,8 +2,6 @@
 
 Para equipos conectados al servidor.
 
-* Entra al usuario que te tocó
-* Dale click al nombre del archivo, no a la casilla
-* Selecciona redes1.ipynb la primera vez
+* Descarga los archivos del curso desde el `usuario00` (no importa que te haya tocado otro usuario)
 
 Dr. Felipe Contreras / Felipe.Contreras@uacm.edu.mx
